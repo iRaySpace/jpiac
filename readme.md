@@ -1,4 +1,4 @@
-<a href="https://laravel.com/"><img src="https://https://img.shields.io/badge/baseline-Laravel-brightgreen.svg?style=flat"></img></a>
+<a href="https://laravel.com/"><img src="https://img.shields.io/badge/baseline-Laravel_5.4-brightgreen.svg"></img></a>
 
 ## About JPIAC
 

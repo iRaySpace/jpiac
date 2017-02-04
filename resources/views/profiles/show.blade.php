@@ -39,7 +39,7 @@
                         No events found.
                       @else
                         @foreach($profile->events()->get() as $profile_event)
-                          <p>{{ $profile_event->title }}</p>
+                          <p><a href="/events/{{ $profile_event->id }}">{{ $profile_event->title }}</a></p>
                         @endforeach
                         <form action="/profiles/events" method="POST">
                           {{ csrf_field() }}
